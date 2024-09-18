@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1.1 (64-bit)
+# SW Build 5094488 on Fri Jun 14 08:57:50 MDT 2024
+# IP Build 5091682 on Fri Jun 14 16:55:04 MDT 2024
+# SharedData Build 5094118 on Fri Jun 14 01:09:43 MDT 2024
+# Start of session at: Wed Sep 18 04:44:54 2024
+# Process ID: 211576
+# Current directory: /home/ncking/Projects/Vivado/ECE-4305_Lab3v2/ECE-4305_Lab3v2.runs/impl_1
+# Command line: vivado -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: /home/ncking/Projects/Vivado/ECE-4305_Lab3v2/ECE-4305_Lab3v2.runs/impl_1/top.vdi
+# Journal file: /home/ncking/Projects/Vivado/ECE-4305_Lab3v2/ECE-4305_Lab3v2.runs/impl_1/vivado.jou
+# Running On        :cathedral
+# Platform          :Fedora
+# Operating System  :Fedora Linux 40 (Workstation Edition)
+# Processor Detail  :AMD Ryzen 7 3800X 8-Core Processor
+# CPU Frequency     :2311.262 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :50389 MB
+# Swap memory       :8589 MB
+# Total Virtual     :58979 MB
+# Available Virtual :46585 MB
+#-----------------------------------------------------------
+source top.tcl -notrace

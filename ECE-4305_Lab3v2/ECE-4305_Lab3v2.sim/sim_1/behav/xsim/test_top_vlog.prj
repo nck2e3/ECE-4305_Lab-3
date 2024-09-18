@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../ECE-4305_Lab3v2.srcs/sources_1/new/db_fsm_early.sv" \
+"../../../../ECE-4305_Lab3v2.srcs/sources_1/new/top.sv" \
+"../../../../ECE-4305_Lab3v2.srcs/sim_1/new/test_top.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
